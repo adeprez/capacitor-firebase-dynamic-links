@@ -7,7 +7,7 @@ Firebase dynamic links Plugin for Capacitor
 ## Install
 
 ```bash
-npm install @sencrop/capacitor-firebase-dynamic-links
+npm install @adeprez/capacitor-firebase-dynamic-links
 npx cap sync
 ```
 
