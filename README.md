@@ -1,4 +1,6 @@
-# @sencrop/capacitor-firebase-dynamic-links
+@sencrop/capacitor-firebase-dynamic-links is missing in npm. The aim of this fork is to publish it under @adeprez/capacitor-firebase-dynamic-links
+
+# @adeprez/capacitor-firebase-dynamic-links
 
 Firebase dynamic links Plugin for Capacitor
 
